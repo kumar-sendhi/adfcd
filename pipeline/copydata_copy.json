@@ -1,6 +1,7 @@
 {
 	"name": "copydata_copy",
 	"properties": {
+		"description": "courtesy of devOps I am able to do Hotfix on copy data.",
 		"activities": [
 			{
 				"name": "Copy data",
